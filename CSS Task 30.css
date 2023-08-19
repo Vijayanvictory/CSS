@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://images.pexels.com/photos/372748/pexels-photo-372748.jpeg?cs=srgb&dl=pen-writing-classic-372748.jpg&fm=jpg);
+    background-size: 450px 870px;
+    background-repeat: no-repeat;
+}
+p{  
+    text-indent: 2.5cm;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    width: 430px;
+    line-height: 0.7cm;
+}
+div{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 430px;
+    text-align: center;
+}
+h1{ text-indent: 4cm;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+h3{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+   margin-left:  200px;
+   background-color: orange;
+   width:80px;
+   height: 30px;
+   border: 3px solid red;
+}
+#instruct{
+    text-indent: 4cm;
+    text-decoration: underline;
+}
